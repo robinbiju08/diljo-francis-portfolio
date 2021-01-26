@@ -386,7 +386,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #000000;
   line-height: 44px;
 }
 
@@ -394,30 +394,6 @@ nav ul li a {
   overflow: hidden;
 }
 
-.services-carousel .owl-dots {
-  margin-top: 5px;
-  text-align: center;
-}
-
-.services-carousel .owl-dot {
-  display: inline-block;
-  margin: 0 5px;
-  width: 12px !important;
-  height: 12px !important;
-  border-radius: 50%;
-  border: 0;
-  padding: 0 !important;
-  background-color: #ddd;
-  cursor: pointer;
-}
-
-.services-carousel .owl-dot.active {
-  background-color: #b8a07e;
-}
-
-.owl-nav {
-  display: none;
-}
 
 /*--------------------------------------------------------------
 # Portfolio
