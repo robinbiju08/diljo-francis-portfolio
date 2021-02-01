@@ -1,9 +1,4 @@
-/**
-* Template Name: Folio - v2.2.0
-* Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function($) {
   "use strict";
 
@@ -92,7 +87,7 @@
     loop: true,
     margin: 20,
     dots: true,
-    nav: false,
+    nav: true,
     responsiveClass: true,
     responsive: {
       0: {
