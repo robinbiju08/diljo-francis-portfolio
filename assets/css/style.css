@@ -425,6 +425,7 @@ nav ul li a {
   position: relative;
   padding-bottom: 50px;
   align-items: center;
+  text-align: center;
 }
 
 #portfolio #portfolio-flters {
