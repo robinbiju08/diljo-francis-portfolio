@@ -323,7 +323,6 @@ nav ul li a {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
   padding-top: 120px;
 }
 
@@ -358,7 +357,6 @@ nav ul li a {
 # Services
 --------------------------------------------------------------*/
 #services {
-  background: #f7f7f7;
   position: relative;
   padding-bottom: 80px;
 }
@@ -423,6 +421,7 @@ nav ul li a {
 # Portfolio
 --------------------------------------------------------------*/
 #portfolio {
+  background: #f7f7f7;
   position: relative;
   padding-bottom: 50px;
   align-items: center;
