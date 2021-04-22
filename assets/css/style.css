@@ -460,6 +460,10 @@ nav ul li a {
 
 #portfolio .portfolio-item {
   margin-bottom: 30px;
+  padding-top: 10px;
+}
+.portfolio-container{
+  
 }
 
 #portfolio .portfolio-item .portfolio-info {
@@ -885,10 +889,12 @@ blockquote {
   background: #f7f7f7;
   padding-top: 50px;
   padding-bottom: 50px;
+  
 }
 
 #footer .socials-media {
   width: 100%;
+  height: 10%;
 }
 
 #footer .socials-media ul {
@@ -927,7 +933,7 @@ blockquote {
 }
 
 .credits {
-  font-size: 13px;
+  font-size: 10px;
 }
 
 /** Width between 1200x to 0
